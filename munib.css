@@ -1,0 +1,81 @@
+body{
+    text-size-adjust: 50px;
+}
+
+.right-align-text{
+ font-family: "Noto Sans Syriac Western", sans-serif;
+ text-align: right;
+}
+.mydiv{text-align: right;
+
+}
+h1{
+    color:rgb(246, 255, 127, 0.74);
+     font-family: "Stack Sans Text", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+h2{
+    color: rgb(246, 255, 127, 0.74);
+    text-align: right;
+}
+nav{
+    text-align: right;
+}
+div{
+    text-align: right;
+}
+#myid{
+    background-color:#9E3474
+    
+}
+#mynav{
+    text-align: left;
+}
+#myh2{
+    text-align: left;
+}
+#mydiv3{
+font-family: "Stack Sans Notch", sans-serif;
+text-align: left;
+}
+p{
+      font-family: "Elms Sans", sans-serif;
+}
+#myid2{
+  background-color: #9E3474
+  
+}
+#mydiv4{
+    text-align: center;
+}
+#mydiv5{
+     font-family: "Momo Signature", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+#myid6{
+    text-align: center;
+}
+#mydiv4{
+    background-color: #9E3474
+
+}
+#mydiv7{
+    text-align: left;
+     background-color: #9E3474
+}
+#myid8{
+    text-align: left;
+}
+#mynav3{
+    text-align: left;
+}
+#mydiv9{
+     font-family: "Momo Trust Display", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: left;
+
+}
